@@ -1,2 +1,7 @@
 # jmv_Bibliotecas
-Espacio dedicado al desarrollo de mis bibliotecas personales en C - Juan Marcos Vallejo.
+Espacio creado por Juan Marcos Vallejo.
+Universidad Tecnológica Nacional.
+
+Todos los fragmentos de código escritos en este espacio son totalmente abiertos.
+
+
